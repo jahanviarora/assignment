@@ -1,0 +1,47 @@
+table
+ {
+    border: 2px solid rgb(43, 23, 23);
+    margin-right: auto;
+    margin-left: auto;
+  };
+  
+body
+  {
+    text-align: center;
+    font-family: Monospace;
+  }
+th
+  {
+    color:rgb(5, 25, 78) ;
+    padding:2% ;
+    font: medium;
+    font-style: normal;
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+tr,td
+  {
+
+padding:2%;
+font-weight: bold;
+font-family: monospace;
+font-size: medium;
+  }
+#heading 
+  {
+    font-size: xx-large;
+    color: rgb(63, 9, 9);
+    font-family: Monospace;
+    font-weight: bold;
+    font-stretch: condensed;
+    padding: 20px 100px;
+    text-align: center;
+  }
+
+#bar
+{
+  font-size: medium;
+  text-align: center;
+  padding: 5%;
+  font-weight: bold;
+}
